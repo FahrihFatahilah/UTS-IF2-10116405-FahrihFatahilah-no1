@@ -7,10 +7,7 @@ package uts.if2.pkg10116405.fahrihfatahilah.no1;
 
 /**
  * @author Fahrih Fatahilah
- * Kelas : IF-2 / PBO-IF2
- * Nim   : 10116405
- * Deskripsi Program : Program meramal umur
- */
+  */
 public class umur {
     private int yearBirth;
     private int yearNow;
