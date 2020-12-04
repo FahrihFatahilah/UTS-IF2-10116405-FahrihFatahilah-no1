@@ -5,9 +5,7 @@
  */
 package uts.if2.pkg10116405.fahrihfatahilah.no1;
 
-/**
- * @author Fahrih Fatahilah
-  */
+
 public class umur {
     private int yearBirth;
     private int yearNow;
